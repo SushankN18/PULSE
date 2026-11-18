@@ -1,0 +1,2 @@
+vehicles_with_latest_state,vehicles_with_eta,coverage_rate,strong_eta_count,moderate_eta_count,weak_eta_count,missing_eta_count
+140,135,0.9642857142857143,135,0,0,5

@@ -1,0 +1,41 @@
+# ── Environment & Secrets ──
+.env
+.env.*
+*.env
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ── Virtual Environment ──
+.venv/
+venv/
+ENV/
+env/
+
+# ── Data files (too large for repo) ──
+data/raw/
+data/processed/
+data/gtfs_static/
+
+# ── IDE / Editor ──
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── OS files ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Misc ──
+.live_state.json
+VehiclePositions
